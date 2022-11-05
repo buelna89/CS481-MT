@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title = "API"
+        android:id = "@+id/api"
+        android:icon = "@drawable/ic_baseline_api_24"/>
+
+    <item android:title = "Display"
+        android:id = "@+id/display"
+        android:icon = "@drawable/ic_display"/>
+
+</menu>

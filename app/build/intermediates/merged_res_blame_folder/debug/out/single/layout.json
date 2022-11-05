@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Buelna PC\\Downloads\\Midterm-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\card_post.xml",
+        "source": "C:\\Users\\Buelna PC\\Downloads\\Midterm-main\\app\\src\\main\\res\\layout\\card_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Buelna PC\\Downloads\\Midterm-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Buelna PC\\Downloads\\Midterm-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Buelna PC\\Downloads\\Midterm-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_api.xml",
+        "source": "C:\\Users\\Buelna PC\\Downloads\\Midterm-main\\app\\src\\main\\res\\layout\\fragment_api.xml"
+    },
+    {
+        "merged": "C:\\Users\\Buelna PC\\Downloads\\Midterm-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_display.xml",
+        "source": "C:\\Users\\Buelna PC\\Downloads\\Midterm-main\\app\\src\\main\\res\\layout\\fragment_display.xml"
+    }
+]

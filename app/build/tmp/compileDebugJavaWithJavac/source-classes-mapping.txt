@@ -1,0 +1,10 @@
+com/example/cs481api/databinding/FragmentApiBinding.java
+ com.example.cs481api.databinding.FragmentApiBinding
+com/example/cs481api/BuildConfig.java
+ com.example.cs481api.BuildConfig
+com/example/cs481api/databinding/CardPostBinding.java
+ com.example.cs481api.databinding.CardPostBinding
+com/example/cs481api/databinding/ActivityMainBinding.java
+ com.example.cs481api.databinding.ActivityMainBinding
+com/example/cs481api/databinding/FragmentDisplayBinding.java
+ com.example.cs481api.databinding.FragmentDisplayBinding
